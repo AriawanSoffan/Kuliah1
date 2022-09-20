@@ -25,7 +25,7 @@ int main()
     else if(opsi==2){
         cout <<"Panjang : ";
         cin >> y;
-        cout<<"luas : ";
+        cout<<"lebar : ";
         cin >> z;
         cout<<"Luas Persegi Panjang : " <<y*z<<endl<<endl;
         goto menu;
