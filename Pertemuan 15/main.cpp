@@ -41,7 +41,7 @@ int main()
             cout << "Dito bisa membeli " << permen <<" permen dengan harga 300"<< endl;
     }
 
-    else{
+    else {
         cout<<"Stok permen "<<y<<" habis"<<endl;
     }
     return 0;
